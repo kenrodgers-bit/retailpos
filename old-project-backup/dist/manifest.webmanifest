@@ -1,0 +1,1 @@
+{"name":"Shoeshop POS","short_name":"POS","description":"Offline point-of-sale system for a single shop.","start_url":"/","display":"standalone","background_color":"#0f172a","theme_color":"#0f172a","lang":"en","scope":"/","icons":[{"src":"icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}]}

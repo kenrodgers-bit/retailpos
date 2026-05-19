@@ -1,0 +1,1 @@
+{"name":"Nexus POS","short_name":"Nexus POS","description":"Offline single-user POS PWA","start_url":"/","display":"fullscreen","background_color":"#ffffff","theme_color":"#3120c9","lang":"en","scope":"/","display_override":["fullscreen","standalone"],"orientation":"portrait-primary","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
