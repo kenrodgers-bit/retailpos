@@ -46,8 +46,6 @@ After building/deploying or previewing over a secure origin, open the app in Chr
 - Backup and restore JSON export/import
 - CSV report exports
 
-
-
 ## Native-like Android PWA mode
 
 This project is configured to open without browser clutter after installation.
